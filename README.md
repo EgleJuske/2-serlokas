@@ -3,7 +3,7 @@
 
 This project is for educational purpose. We try to recreate styles and structure of sample 404 page.
 
-Site published at https://eglejuske.github.io/4-serlokas/.
+Site published at https://eglejuske.github.io/2-serlokas/.
 
 ## Project features
 - css components
